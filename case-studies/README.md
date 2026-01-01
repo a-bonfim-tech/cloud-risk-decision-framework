@@ -13,3 +13,4 @@ The objective is to model **decision quality**, not implementation detail.
 ## Available Case Studies
 
 - [Public API Exposure Risk](./public-api-exposure-risk.md)
+- [Logging Coverage vs Cost Risk](./logging-coverage-vs-cost-risk.md)
