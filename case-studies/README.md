@@ -9,3 +9,7 @@ Each case study follows the same decision structure used in the
 audit traceability are documented.
 
 The objective is to model **decision quality**, not implementation detail.
+
+## Available Case Studies
+
+- [Public API Exposure Risk](./public-api-exposure-risk.md)
