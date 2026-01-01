@@ -117,6 +117,28 @@ That is by design.
 
 ---
 
+## Interview & Design Review Use
+
+This repository is intentionally designed to be discussed in:
+
+* Security architecture interviews
+* Risk and governance design reviews
+* Cloud security leadership conversations
+
+The case studies demonstrate how decisions are:
+
+* Framed before implementation
+* Balanced against business constraints
+* Documented for audit and post-incident defense
+
+Recommended discussion entry points:
+
+* Public API Exposure Risk
+* Logging Coverage vs Cost Risk
+
+
+---
+
 ## Sponsorship & Sustainability
 
 This work is supported through GitHub Sponsors to ensure the continuous public development of **decision-quality security frameworks**.
