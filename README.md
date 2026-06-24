@@ -49,6 +49,9 @@ All examples are abstracted to remain:
 * Audit-safe
 * Vendor-neutral
 
+Security scope, safe reporting expectations, and correction handling are
+documented in [SECURITY.md](SECURITY.md).
+
 ---
 
 ## Core Principles
